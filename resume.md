@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My CV ([PDF Form](Erkam_Tuna_Bayoglu_CV.pdf))
+# My CV ([PDF Form](erkam_tuna_bayoglu_cv.pdf))
 
 ## Education
 **TÜBİTAK Science Highschool** <br>
