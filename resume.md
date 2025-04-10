@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My CV ([PDF Form](erkam_tuna_bayoglu_cv.pdf))
+# My CV ([PDF Form](Erkam_Tuna_Bayoglu_CV.pdf))
 
 ## Education
 **TÜBİTAK Science Highschool** <br>
@@ -41,7 +41,7 @@ Familiar: Onshape, SolidWorks
 
 ## Certificates and Awards
 AWS Miuul Bootcamp ([link](certificates\aws_certificate.png)) <br>
-Sweet Managers ([PMI (Project Management Institute)](certificates/pmi)) <br>
+Sweet Managers ([PMI-Project Management Institute](certificates/pmi)) <br>
 FRC Marmara Regional Winner <br>
 Teknofest UUV Finalist ([2023](certificates/sagan_finals_2023.pdf)/[2024](certificates/sagan_finals_2024.pdf)) <br>
 TÜBİTAK 4004 Certificate of Participation ([link](certificates/habitat.jpg)) <br>
